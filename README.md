@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/KiraTheCoder?label=Follow&style=social)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?label=Follow)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![Linkedin: Kiran Kumar](https://img.shields.io/badge/-Kiran%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirankumar24)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![Linkedin: Kiran Kumar](https://img.shields.io/badge/-Kiran%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirankumar24)](https://www.linkedin.com/in/kirankumar24)
 ![GitHub followers](https://img.shields.io/github/followers/KiraTheCoder?label=Follow&style=social)
 
 

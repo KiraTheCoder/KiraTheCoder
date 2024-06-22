@@ -19,7 +19,7 @@ npx kirankumar
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const Kiran_Kumar = {
     pronouns: "He" | "Him",
     code: ["Javascript", "c++", "Java"],
     askMeAbout: ["web dev", "tech", "app dev"],

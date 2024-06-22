@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/kirankumar24)
+[![Linkedin: Kiran Kumar](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/kirankumar24)
 ![GitHub followers](https://img.shields.io/github/followers/KiraTheCoder?label=Follow&style=social)
 
 
@@ -14,7 +14,7 @@
 ```bash
 npx kirankumar
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx Kiran](https://github.com/anmol098/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

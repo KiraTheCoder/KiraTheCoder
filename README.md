@@ -48,7 +48,11 @@ const Kiran_Kumar = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+
+
 
 
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)

@@ -29,7 +29,7 @@ const Kiran_Kumar = {
         },
         devOps: ["AWS", "Docker🐳",  "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "Netlify,"Vercel"]
+        misc: ["Firebase", "Socket.IO", "Netlify","Vercel"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",

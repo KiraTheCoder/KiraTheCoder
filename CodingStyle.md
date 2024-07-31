@@ -22,5 +22,5 @@ const thai = {
 ---
 
 
-![Build Status](https://img.shields.io/github/workflow/status/yourusername/yourrepository/CI)
+![Build Status](https://img.shields.io/github/workflow/status/kiraTheCoder/ShopEaseApi/CI)
 ![Version](https://img.shields.io/github/v/tag/yourusername/yourrepository)

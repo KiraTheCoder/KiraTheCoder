@@ -27,7 +27,7 @@ const Kiran_Kumar = {
             js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker🐳",  "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql", "sqlite", "postgres"],
         misc: ["Firebase", "Socket.IO", "Netlify","Vercel"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
